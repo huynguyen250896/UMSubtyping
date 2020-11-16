@@ -1,0 +1,81 @@
+Patient ID	Age	Gender	AJCC Clinical Stage	Tumor Basal Diameter (Clinical)	Tumor Basal Diameter (pathological)	Ciliary Body (Pathology Review)	Ciliary Body (TSS & Pathology Data)	Ciliary Body (TSS Data Only)	Histology Cell Type Compare	TILS : Density	TAMS: Density	Closed Connective Loops	Degree of Pigmentation	Necrosis	Vital Status	Cause of Death	Metastatic Disease	1. Time to UM Metastatsis	2. Time to UM Met or Death	3. Time to UM Death or Last Follow-up
+TCGA-RZ-AB0B	47	Female	Stage IV	[Not Available]	[Not Available]	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	0	149
+TCGA-V3-A9ZX	56	Male	Stage IIB	[Not Available]	11.5	Yes	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	Yes	233	233	470
+TCGA-V3-A9ZY	54	Male	Stage IIB	[Not Available]	7.79	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	459
+TCGA-V4-A9E5	51	Female	Stage IIIB	18	20	Yes	Yes	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	2499
+TCGA-V4-A9E7	76	Male	Stage IIIA	18	20	Not determinable from slide	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Heavy	Present	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	35	35	415
+TCGA-V4-A9E8	49	Male	Stage IIIA	19	19	Not determinable from slide	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Heavy	Present	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	557	557	808
+TCGA-V4-A9E9	50	Male	Stage IIIA	10	19	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Heavy	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1246
+TCGA-V4-A9EA	66	Male	Stage IIIA	17	16	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1362
+TCGA-V4-A9EC	75	Female	Stage IIB	[Unknown]	17	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	743
+TCGA-V4-A9ED	45	Male	Stage IIIA	17	16	Not determinable from slide	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1078
+TCGA-V4-A9EE	86	Male	Stage IIB	16	16	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Absent	Mild	Present	Dead	Metastatic Uveal Melanoma	Yes	211	211	398
+TCGA-V4-A9EF	56	Male	Stage IIIB	17	16	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1165
+TCGA-V4-A9EH	53	Male	Stage IIIB	15.8	22	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	670
+TCGA-V4-A9EI	78	Male	Stage IIIB	12	24	Not determinable from slide	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Present	Moderate	Absent	Dead	Metastatic Uveal Melanoma	Yes	203	203	389
+TCGA-V4-A9EJ	38	Male	Stage IIB	11	15	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	746
+TCGA-V4-A9EK	37	Female	Stage IIB	17	18	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Heavy	Absent	Heavy	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1028
+TCGA-V4-A9EL	60	Male	Stage IIIA	18.3	21	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	Yes	413	413	982
+TCGA-V4-A9EM	53	Male	Stage IIIA	21.6	22	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	966
+TCGA-V4-A9EO	74	Male	Stage IIIA	15	25	Not determinable from slide	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Present	Mild	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	773
+TCGA-V4-A9EQ	64	Male	Stage IIIA	19	21	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Moderate	Absent	Dead	Metastatic Uveal Melanoma	Yes	252	252	455
+TCGA-V4-A9ES	54	Female	Stage IIIA	17	16	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	Yes	1299	1299	1511
+TCGA-V4-A9ET	57	Male	Stage IIIB	18	17	Yes	Yes	No	Spindle Cell and Predom Spindle Cell	Mild	Heavy	Absent	Moderate	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1362
+TCGA-V4-A9EU	83	Female	Stage IIIC	18	20	Yes	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Present	Heavy	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	708
+TCGA-V4-A9EV	59	Female	Stage IIIA	19.6	20	Not determinable from slide	No	No	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Mild	Absent	Mild	Present	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	1269	1269
+TCGA-V4-A9EW	44	Female	Stage IIIA	18	19	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Mild	Absent	Alive	[Not Applicable]	Yes	197	197	1211
+TCGA-V4-A9EX	55	Female	Stage IIIA	16	17	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Absent	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	381	381	730
+TCGA-V4-A9EY	66	Female	Stage IIIA	11	20	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	837
+TCGA-V4-A9EZ	78	Female	Stage IIB	18	18	Not determinable from slide (Yes)	No	No	Spindle Cell and Predom Spindle Cell	Mild	Heavy	Absent	Heavy	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	599
+TCGA-V4-A9F0	59	Male	Stage IIIB	17.2	20	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Heavy	Absent	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	489	489	945
+TCGA-V4-A9F1	46	Female	Stage IIB	17	16	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Heavy	Present	Moderate	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	938
+TCGA-V4-A9F2	78	Female	Stage IIIA	13	14	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Heavy	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	734
+TCGA-V4-A9F3	49	Female	Stage IIIA	18	18	Not determinable from slide (Yes)	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Present	Mild	Absent	Dead	Metastatic Uveal Melanoma	Yes	329	329	873
+TCGA-V4-A9F4	41	Male	Stage IIIA	21	20	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	634
+TCGA-V4-A9F5	85	Female	Stage IV	15.4	22	Yes	Yes	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Moderate	Absent	Alive	[Not Applicable]	Yes	78	78	203
+TCGA-V4-A9F7	78	Female	Stage IIB	11.5	15	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1256
+TCGA-V4-A9F8	68	Male	Stage IIIA	16.6	20	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	597
+TCGA-VD-A8K7	39	Male	Stage IIIA	16.5	17	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1459
+TCGA-VD-A8K8	56	Female	Stage IIIA	18.4	16	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	1377	1377
+TCGA-VD-A8K9	71	Female	Stage IIB	14.5	10.5	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1424
+TCGA-VD-A8KA	22	Male	Stage IIB	15.9	15	No (Not determinable from slide)	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	Yes	1008	1008	1178
+TCGA-VD-A8KB	66	Female	Stage IIB	17.1	16	No (Not determinable from slide)	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1354
+TCGA-VD-A8KD	72	Male	Stage IV	15.6	18.3	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Moderate	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	0	114
+TCGA-VD-A8KE	74	Female	Stage IIA	10.8	8	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	821
+TCGA-VD-A8KF	68	Male	Stage IIIB	19.2	20	Yes	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Present	Mild	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	40	40
+TCGA-VD-A8KG	47	Female	Stage IIA	11.3	12	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	20
+TCGA-VD-A8KH	69	Male	Stage IIIB	16.9	16	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1158
+TCGA-VD-A8KI	68	Male	Stage IIB	17.6	15	No	No	No	Spindle Cell and Predom Spindle Cell	Heavy	Moderate	Absent	Heavy	Present	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	1113	1113
+TCGA-VD-A8KJ	53	Male	Stage IIB	16.9	14	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1150
+TCGA-VD-A8KK	54	Male	Stage IIIA	19.5	17.5	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	64
+TCGA-VD-A8KL	77	Female	Stage IIB	17.9	17	No (Yes?)	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Heavy	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	638
+TCGA-VD-A8KM	65	Male	Stage IIB	16.6	16.8	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Moderate	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	4
+TCGA-VD-A8KN	60	Female	Stage IIB	15.1	15	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	68
+TCGA-VD-A8KO	51	Male	Stage IIIA	16.2	9	No (Yes?)	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	795
+TCGA-VD-AA8M	64	Male	Stage IIB	13.2	12	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	6
+TCGA-VD-AA8N	86	Male	Stage IIIA	17.2	15	Yes	Yes	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Moderate	Present	Moderate	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	44
+TCGA-VD-AA8O	77	Male	Stage IIB	17.3	13.5	No	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Mild	Heavy	Absent	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	606	606
+TCGA-VD-AA8P	64	Female	Stage IIB	10.6	12	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	86
+TCGA-VD-AA8Q	71	Male	Stage IIB	13.9	12	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Heavy	Absent	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	636	636
+TCGA-VD-AA8R	78	Female	Stage IIB	14.1	13	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	6
+TCGA-VD-AA8S	40	Male	Stage IIB	13.4	13	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	427
+TCGA-VD-AA8T	83	Female	Stage IIB	14.6	12	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	49
+TCGA-WC-A87T	64	Male	Stage IIB	16	11	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	2600
+TCGA-WC-A87U	73	Male	Stage IIB	16	18	No	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Dead	Metastatic Pancreatic Cancer	No	[Not Applicable]	[Not Applicable]	1581
+TCGA-WC-A87W	57	Female	Stage IIA	13	13	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1703
+TCGA-WC-A87Y	59	Male	Stage IIIA	16	13	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Present	Moderate	Absent	Dead	Metastatic Uveal Melanoma	YES	[Unknown]	1314	1314
+TCGA-WC-A880	63	Male	Stage IIB	17	20	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1258
+TCGA-WC-A881	75	Male	Stage IIB	18	18	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Moderate	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1065
+TCGA-WC-A882	50	Female	Stage IIB	13	12	Not determinable from slide	Yes	Yes	Spindle Cell and Predom Spindle Cell	Moderate	Heavy	Absent	Heavy	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1112
+TCGA-WC-A883	76	Female	Stage IIIC	20	18	Yes	Yes	No	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Moderate	Present	Moderate	Present	Dead	[Unknown]	No	[Not Applicable]	[Not Applicable]	241
+TCGA-WC-A884	35	Female	Stage IIIB	not clear due to debris	20	Yes	Yes	Yes	Epithelioid Cell and Predom Epithelioid Cell	Moderate	Moderate	Absent	Mild	Present	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	12
+TCGA-WC-A885	60	Male	Stage IIB	12.6	12	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Heavy	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	686
+TCGA-WC-A888	76	Male	Stage IIB	15.6	15	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Heavy	Heavy	Present	Moderate	Absent	Dead	[Unknown]	No	[Not Applicable]	[Not Applicable]	585
+TCGA-WC-A88A	75	Male	Stage IV	18.6	25	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Moderate	Present	Dead	Metastatic Uveal Melanoma	Yes	[Unknown]	0	82
+TCGA-WC-AA9A	70	Female	Stage IIA	15	14	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Present	Mild	Present	Dead	Metastatic Uveal Melanoma	Yes	371	371	453
+TCGA-WC-AA9E	60	Male	Stage IIIC	[Not Available]	massive orbital recurrence	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Absent	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	838
+TCGA-YZ-A980	75	Male	Stage IIIA	14	14	Yes	Yes	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1862
+TCGA-YZ-A982	79	Female	Stage IIIB	23.64	25	Yes	Yes	Yes	Spindle Cell and Predom Spindle Cell	Mild	Moderate	Absent	Moderate	Present	Dead	Atrial fibrillation complications	No	[Not Applicable]	[Not Applicable]	841
+TCGA-YZ-A983	51	Female	Stage IIB	15.3	16	No	No	No	Epithelioid Cell and Predom Epithelioid Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	798
+TCGA-YZ-A984	50	Female	Stage IIIA	18.8	15	Not determinable from slide	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Dead	Metastatic Uveal Melanoma	Yes	916	916	1396
+TCGA-YZ-A985	41	Female	Stage IIIA	19.3	19	No	No	No	Spindle Cell and Predom Spindle Cell	Mild	Mild	Present	Mild	Absent	Alive	[Not Applicable]	No	[Not Applicable]	[Not Applicable]	1184
