@@ -15,10 +15,10 @@ Uveal melanoma (UM) is a comparatively rare cancer but requires serious consider
 Here, we used [Uveal melanoma (UM) data](https://www.cell.com/cancer-cell/fulltext/S1535-6108(17)30295-7#secsectitle0110) from The Cancer Genome Atlas (TCGA).
 
 #### 3.Citation
-If you found our work interesting, please cite it as follows
+If you find our work interesting, please cite it as follows
 ```sh
 Reference Type: Journal Article
-Author: Thi Hai Yen Nguyen
+Author: Nguyen, Thi Hai Yen
 Tin Nguyen
 Nguyen, Quang-Huy
 Le, Duc-Hau
